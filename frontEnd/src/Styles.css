@@ -1,0 +1,18 @@
+
+
+body{
+    background-image: url('/public/photos/premium_photo-1675747966994-fed6bb450c31.avif'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.background-text {
+    background-image: url('/public/photos/1337Food.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+    position: relative;
+    background-blend-mode: multiply;
+    
+}
+
+  
