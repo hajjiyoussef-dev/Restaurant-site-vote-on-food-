@@ -13,7 +13,6 @@ const Navbar = () => {
           </button>
           <ul className="dropdown-menu   text-white">
               <li> <Link to={'/studentsignup'} className="dropdown-item "> <em><b>Studant Sign up & login</b></em></Link></li> 
-                {/* <li><Link to={'/StudantLogin'} className="dropdown-item "> <em><b>Studant Login</b></em></Link></li> */}
                <li> <Link to={'/Cheflogin'} className="dropdown-item "> <em><b>Chef login</b> </em></Link></li>
           </ul>
         </div>
